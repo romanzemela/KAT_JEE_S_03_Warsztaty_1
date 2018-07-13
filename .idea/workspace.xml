@@ -15,8 +15,20 @@
       <file leaf-file-name="LottoMain1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lotto/LottoMain1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="24" />
+            <state relative-caret-position="690">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZgadywanieLiczb1Main1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZgadywanieLiczb1/ZgadywanieLiczb1Main1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,17 +39,17 @@
       <file leaf-file-name="ZgadywanieLiczb2Main1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ZgadywanieLiczb2/ZgadywanieLiczb2Main1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="405">
+              <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZgadywanieLiczb1Main1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ZgadywanieLiczb1/ZgadywanieLiczb1Main1.java">
+      <file leaf-file-name="Kostki.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Kostki/Kostki.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="299">
+              <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,12 +66,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ZgadywanieLiczb1/ZgadywanieLiczb1Main1.java" />
-        <option value="$PROJECT_DIR$/src/Lotto/LottoMain1.java" />
         <option value="$PROJECT_DIR$/src/ZgadywanieLiczb2/ZgadywanieLiczb2Main1.java" />
+        <option value="$PROJECT_DIR$/src/Lotto/LottoMain1.java" />
+        <option value="$PROJECT_DIR$/src/Kostki/Kostki.java" />
+        <option value="$PROJECT_DIR$/src/ZgadywanieLiczb1/ZgadywanieLiczb1Main1.java" />
       </list>
     </option>
   </component>
@@ -96,6 +114,12 @@
               <item name="KAT_JEE_S_03_Warsztaty_1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KAT_JEE_S_03_Warsztaty_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KAT_JEE_S_03_Warsztaty_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ZgadywanieLiczb1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -107,6 +131,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,6 +146,16 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.ZgadywanieLiczb2Main1">
+    <configuration name="Kostki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kostki.Kostki" />
+      <module name="KAT_JEE_S_03_Warsztaty_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kostki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="LottoMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lotto.LottoMain1" />
       <module name="KAT_JEE_S_03_Warsztaty_1" />
@@ -163,12 +198,14 @@
       <item itemvalue="Application.ZgadywanieLiczb1Main1" />
       <item itemvalue="Application.LottoMain1" />
       <item itemvalue="Application.ZgadywanieLiczb2Main1" />
+      <item itemvalue="Application.Kostki" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ZgadywanieLiczb2Main1" />
-        <item itemvalue="Application.LottoMain1" />
         <item itemvalue="Application.ZgadywanieLiczb1Main1" />
+        <item itemvalue="Application.Kostki" />
+        <item itemvalue="Application.LottoMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -182,16 +219,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531478758813</updated>
-      <workItem from="1531478761418" duration="4765000" />
+      <workItem from="1531478761418" duration="9832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4765000" />
+    <option name="totallyTimeSpent" value="9832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="25" width="1865" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -203,19 +239,19 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32946146" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32946146" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986595" />
       <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39915523" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -231,7 +267,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="15" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -251,8 +287,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lotto/LottoMain1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="24" />
+        <state relative-caret-position="690">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Kostki/Kostki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -261,8 +307,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ZgadywanieLiczb1/ZgadywanieLiczb1Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="405">
+          <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -271,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ZgadywanieLiczb2/ZgadywanieLiczb2Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="405">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
         </state>
       </provider>
     </entry>
